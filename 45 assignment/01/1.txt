@@ -1,0 +1,2 @@
+//installations of all the required things i.e typescript ,node.js,vscode ,git hasbeen completed
+
